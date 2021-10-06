@@ -1,0 +1,9 @@
+Mercari Japan’s biggest community-powered e-commerce application that allows individuals
+to easily buy and sell goods.
+• Need - High prized items are not sold easily, in low prized items seller lose money.
+• Possible solution - Users can do market research, however it takes lot of effort and this idea
+may not occur to new Mercari users.
+• ML Solution created using EDA, Data tranformation, TfIdf vectorizer,One hot encoding, stopwords
+removal, Models like Ridge and Lasso regression, XgBoost, SVR, stacking, Grid search for
+hyper parameter tuning, Model combinations etc.
+• Obtained RMSLE accuracy of 0.42778.
